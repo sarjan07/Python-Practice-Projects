@@ -118,9 +118,6 @@ Run the script and input the scores. The script will output the highest score.
 
 Feel free to contribute by adding new projects or improving existing ones. You can open an issue or submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
