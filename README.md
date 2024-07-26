@@ -114,20 +114,6 @@ Run the script and input the scores. The script will output the highest score.
 
 ---
 
-## Getting Started
-
-To get started with these projects, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/python-practice-projects.git
-   ```
-
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd python-practice-projects
-   ```
-
 ## Contributing
 
 Feel free to contribute by adding new projects or improving existing ones. You can open an issue or submit a pull request with your changes.
